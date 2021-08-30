@@ -1,0 +1,7 @@
+Passos para criação de uma máquina virtual (Virtual Machine) na Microsoft Azure:
+
+1. Entrar em sua conta Azure no portal https://portal.azure.com
+2. Utilizando o menu lateral, ícones de atalho do dashboard central ou a barra de busca superior do portal, acesse os "Resource Groups" (grupos de recursos)
+3. Crie um novo Resource Group
+
+
